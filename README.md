@@ -246,4 +246,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-GitHub: [JOSHUACRAZES]((https://github.com/JOSHUACRAZES))
+GitHub: [JOSHUACRAZES](https://github.com/JOSHUACRAZES)
