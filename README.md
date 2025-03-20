@@ -3,7 +3,8 @@
 
 WPBScan is a powerful Python-based tool designed to identify security vulnerabilities in WordPress websites. It offers comprehensive scanning capabilities similar to WPScan but with a simplified interface and lightweight implementation.
 
-[image](image_2.png) 
+[image](![image](https://github.com/user-attachments/assets/51e5a616-55d5-4bd1-b7b8-932d8daf39a6)
+) 
 
 ## Features
 
